@@ -9,3 +9,7 @@ https://github.com/1minute99/DataScience-Job-Salary-Analysis/blob/main/project1.
 ## Code
 
 https://github.com/1minute99/DataScience-Job-Salary-Analysis/blob/main/project1.Rmd
+
+## Shiny App
+
+https://1minute99.shinyapps.io/shiny
